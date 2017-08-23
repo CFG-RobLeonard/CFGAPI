@@ -1,0 +1,28 @@
+{
+"Response": {
+   "Party": {
+     "persistentId": "473123587235133101",
+     "TIN": "100004317",
+     "orgName": "DUMMY_ORG_NAME_9601",
+     "legalEntityType": "",
+     "SIC": 1011,
+     "DUNSNo": "",
+     "DUNSName': "",
+     "state0fIncorporation": 45,
+     "CFGCIS": "CTCGMUS",
+     "address": "DUMMY_ADDR_LN1",
+     "city": "Belcamp",
+     "state": "MD",
+     "zip": "21017",
+     "country": "US",
+     "rmCISKey": "000100000000000000000020728527",19   "clientStatusType": "Customer",
+     "clientStatusType": "Customer",
+     "regOlndicator': ""
+    },
+	"Status": {
+    "type": "S",
+    "code": 200,
+    "description": "The operation was successful"26
+	}
+  }
+}
